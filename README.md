@@ -1,5 +1,10 @@
  # Blackcomb Linux
 
-This is my project to learn a few things. For example, how to name a Linux Distro. I currently know very little but by the end I hope this will be a good linux distro that will work on as many ARM64 devices as possible. If you're wondering why ARM64 and not x86, it's because I use a macbook (for school and everything else), and I don't have a computer (other than a macbook) to install linux on. And just like the licence said, do whatever you want with my software, although I discourage selling it, I can't actually make you not sell it. 
+This is my project to learn a few things. For example, how to name a Linux Distro. And just like the licence said, do whatever you want with my software, although I discourage selling it, I can't actually make you not sell it. 
 
-Once I get an ISO here, I request that (once the time comes) you test it as riggerously as possible, I want you to find every problem you can. While again, I cannot force you, do what you want. I'll make it compatible with Raspberry Pi and VMware Fusion for the first release and hopefully some Snapdragon X chips, although I cannot garuntee the compatibility with the Raspberry Pi or Snapdragon, I will be building this OS with VMware Fusion. Although for a very long while it will be compatible with only ARM64, I plan to make it work with other architextures in the future. 
+Once I get an ISO here, I request that (once the time comes) you test it as riggerously as possible, I want you to find every problem you can. While again, I cannot force you, do what you want. 
+
+Dec 13, 2025. 7:54 GMT+8 (Taipei)
+Change of plans, I'm gonna make it an x86 operating system first, but I have yet to aquire that x86 macbook pro, so my start date will be pushed back to at the earliest, next Saturday. But you never know, I'm a seventh grader nearing the end of the semester. There's a chance that stuff get's pushed back even more because of homework and summatives (finals for each unit, btw, I'm in the IB MYP), and maybe even Christmas. Also, I'm thinking of starting a youtube series where I document making this linux distro I have dubbed "Blackcomb". If you were wondering, I dubbed thy operating system Blackcomb because of Blackcomb mountain, and project Blackcomb (windows 7).
+Best Regards
+–The Developer–
