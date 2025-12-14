@@ -10,3 +10,6 @@ Best Regards
 –The Developer–
 
 If you want to email me about something, email me at mrducktheduck@duck.com (yes, it's a joke, yes it's a real email).
+
+Dec 14, 2025. 2:46 PM GMT+8 (Taipei)
+In recent news, I have decided not to use LFS+BLFS for the sake of my own sanity, I will instead base blackcomb on Fedora. But someday, when the time is right, I will try LFS+BLFS.
