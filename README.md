@@ -14,3 +14,6 @@ If you want to email me about something, email me at mrducktheduck@duck.com (yes
 Dec 14, 2025. 2:46 PM GMT+8 (Taipei)
 In recent news, I have decided not to use LFS+BLFS for the sake of my own sanity, I will instead base blackcomb on Fedora. But someday, when the time is right, I will try LFS+BLFS.
 In other news, I have made a youtube channel documenting what I'm doing, although nothings there, here's the link: https://www.youtube.com/@Idontmaketutorials
+
+Dec 20, 2025 6:48 GMT+8 (Taipei)
+I have decided that I will once again, rest my sanity in the hands of my skill (both with linux and researching) to get to LFS, and then BLFS and I think that it will be a clunky and long road to the day (if it comes) that I release Blackcomb linux as my own.
