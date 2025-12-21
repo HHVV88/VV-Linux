@@ -17,3 +17,6 @@ In other news, I have made a youtube channel documenting what I'm doing, althoug
 
 Dec 20, 2025 6:48 GMT+8 (Taipei)
 I have decided that I will once again, rest my sanity in the hands of my skill (both with linux and researching) to get to LFS, and then BLFS and I think that it will be a clunky and long road to the day (if it comes) that I release Blackcomb linux as my own.
+
+Dec 21, 2025 GMT+8 (Taipei)
+I will once again be doing this on my M4 macbook, instead of the planned macbook pro from 2018, because I do not have it.
