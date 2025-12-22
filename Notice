@@ -1,0 +1,24 @@
+This project includes customized configuration on top of Fedora Linux.
+
+Fedora is a trademark of Red Hat, Inc. This project is not affiliated
+with or endorsed by the Fedora Project. Fedora and its included
+packages are distributed under their respective free and open-source
+licenses.
+
+Included third-party software:
+- Mactahoe icon theme (third-party icon pack — check included license)
+- WhiteSur icons (GPL-based icon theme)
+- Numix icons (GPL-based icon theme)
+- Plank dock (GPLv3, https://launchpad.net/plank)
+- Chromium (BSD-style license + other open components)
+- Kate (LGPL)
+- VLC (GPLv2)
+- Aisleriot / GNOME Solitaire (GPLv3)
+
+Each component remains under its original license. Nothing in this
+project removes or changes those rights.
+
+
+Fedora is a trademark of Red Hat, Inc. 
+This project is not affiliated with or endorsed by the Fedora Project. 
+Fedora and its components are free to use, modify, and redistribute under their respective open-source licenses.
