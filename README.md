@@ -5,7 +5,7 @@ This is my project to learn a few things. For example, how to name a Linux Distr
 Once I get an ISO here, I request that (once the time comes) you test it as riggerously as possible, I want you to find every problem you can. While again, I cannot force you, do what you want. 
 
 Dec 13, 2025. 7:54 GMT+8 (Taipei)
-Change of plans, I'm gonna make it an x86 operating system first, but I have yet to aquire that x86 macbook pro, so my start date will be pushed back to at the earliest, next Saturday. But you never know, I'm a seventh grader nearing the end of the semester. There's a chance that stuff get's pushed back even more because of homework and summatives (finals for each unit, btw, I'm in the IB MYP), and maybe even Christmas. Also, I'm thinking of starting a youtube series where I document making this linux distro I have dubbed "Blackcomb". If you were wondering, I dubbed thy operating system Blackcomb because of Blackcomb mountain, and project Blackcomb (windows 7).
+Change of plans, I'm gonna make it an x86 operating system first, but I have yet to aquire that x86 macbook pro, so my start date will be pushed back to at the earliest, next Saturday. But you never know, I'm a seventh grader nearing the end of the semester. There's a chance that stuff get's pushed back even more because of homework and summatives (finals for each unit, btw, I'm in the IB MYP), and maybe even Christmas. If you were wondering, I dubbed thy operating system Blackcomb because of Blackcomb mountain, and project Blackcomb (windows 7).
 Best Regards
 –The Developer–
 
